@@ -189,3 +189,7 @@ Best sceenshot tools on linux.
 ```shell
 sudo apt install flameshot
 ```
+
+#### Remmina
+
+Best remote desktop app in Linux, support `RDP` ,`VNC` protocals. If you have another windows machine which is often accessed, use this app to access your windows machine on `Ubuntu`.
