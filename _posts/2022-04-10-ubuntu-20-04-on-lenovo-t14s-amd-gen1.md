@@ -81,7 +81,7 @@ sudo apt update && sudo apt upgrade
 
 Below sections are optional optimizations for `Ubuntu`. Make your own choice.
 
-Tips: If you install `Ubuntu` with the latest ISO image from [Ubuntu official website](https://ubuntu.com/download/desktop), you don't  need install the OEM kernel manully. [switch to Linux oem kernel](#switch to Linux oem kernel).
+Tips: If you install `Ubuntu` with the latest ISO image from [Ubuntu official website](https://ubuntu.com/download/desktop), you don't  need install the OEM kernel manully. [switch to Linux oem kernel](#switch-to-linux-oem-kernel).
 
 #### switch to Linux oem kernel
 
