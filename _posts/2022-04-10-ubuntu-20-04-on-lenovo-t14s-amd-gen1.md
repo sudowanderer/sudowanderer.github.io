@@ -79,7 +79,7 @@ sudo apt update && sudo apt upgrade
 
 ### Optimization
 
-Below sections are optional optimizations for `Ubuntu`. Make your own choice. 
+Below sections are optional optimizations for `Ubuntu`. Make your own choice.
 
 Tips: If you install `Ubuntu` with the latest ISO image from [Ubuntu official website](https://ubuntu.com/download/desktop), you don't  need install the OEM kernel manully. [switch to Linux oem kernel](#switch to Linux oem kernel).
 
@@ -193,3 +193,7 @@ sudo apt install flameshot
 #### Remmina
 
 Best remote desktop app in Linux, support `RDP` ,`VNC` protocals. If you have another windows machine which is often accessed, use this app to access your windows machine on `Ubuntu`.
+
+```shell
+sudo snap install remmina
+```
