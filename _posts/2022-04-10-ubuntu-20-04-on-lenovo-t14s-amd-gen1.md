@@ -47,13 +47,13 @@ Before migrate from `Windows` to `Ubuntu`,  you need change some `BIOS` settings
 
 * disable secure boot
 
-  <img src="T14sUbuntu.assets/secure_boot2.jpg" style="zoom:67%;" />
+  <img src="T14sUbuntu.assets/secure_boot2.jpg" style="zoom:67%;"  alt="secure boot"/>
 
 * set sleep state to `Linux`( this fix can not wake up issues)
 
   config->power->sleep state
 
-  <img src="T14sUbuntu.assets/lenovo-bios-targus_1024x1024.jpg" style="zoom:67%;" />
+  <img src="T14sUbuntu.assets/lenovo-bios-targus_1024x1024.jpg" style="zoom:67%;" alt=" lenovo bios"/>
 
 #### Installment
 
