@@ -15,5 +15,7 @@ Welcome to my blog!
 ## 主要技术栈
 
 * Java
+* Golang
 * Linux (Ubuntu)
+* Docker
 * AWS
