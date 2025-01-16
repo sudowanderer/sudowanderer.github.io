@@ -1,8 +1,8 @@
 ---
 title: Java8 Stream List转Map Null值报错解决方法
-categories: java
+categories: Java
 date: 2020-02-20 14:12:43
-tags: java8
+tags: Java8
 ---
 ## 问题场景
 

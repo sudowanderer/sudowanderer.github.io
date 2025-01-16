@@ -1,9 +1,9 @@
 ---
 title: 为什么Java在foreach里面remove/add操作List会抛异常
-categories: java
+categories: Java
 date: 2020-05-20 21:06:52
 img_path: /assets/
-tags: java
+tags: Java
 ---
 ## 背景
 

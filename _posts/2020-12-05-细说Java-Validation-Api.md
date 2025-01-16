@@ -1,6 +1,6 @@
 ---
 title: 细说Java Validation Api
-categories: java
+categories: Java
 img_path: /assets/
 date: 2020-12-05 21:30:57
 tags: Java-Validation-Api

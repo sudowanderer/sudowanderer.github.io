@@ -3,8 +3,8 @@ layout: post
 title: Ubuntu 20.04 on Lenovo T14s AMD Gen1
 date: 2022-04-10 19:26 +0800
 img_path: /assets/
-categories: linux
-tags: ubuntu
+categories: Linux
+tags: Ubuntu
 ---
 
 Basically, all machine functions working well, including:
